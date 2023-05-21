@@ -1,6 +1,6 @@
 # Link Ladder
 
-A customizable micro-landing page creator using Typescript, React, Express and MongoDB.
+A customizable micro-landing page creator using TypeScript, React, Express and MongoDB.
 
 # Frontend Documentation (React)
 
